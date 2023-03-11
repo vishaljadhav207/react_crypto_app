@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-###[Project Link](https://react-crypto-app-ashen.vercel.app/)
+### [Project Link](https://react-crypto-app-ashen.vercel.app/)
 
 ## Available Scripts
 
